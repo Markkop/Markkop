@@ -24,6 +24,7 @@ A fullstack developer that loves learning, sharing and gamified stuff.
 * ⚖️ **[Customer Success Balancing](https://github.com/Markkop/cs-balancer)**: A Ruby script and its Javascript equivalent that solves a sorting algorithm problem
 * 🔒 **[caesarCipher script](https://github.com/Markkop/caesarCipher)**: The solution for the old Codenation entry challenge
 * 🖱️ **[Click Limiter](https://github.com/Markkop/click-limiter)**: A simple VueJS app demonstrating how throttle and debounce works  
+* 🕹️ **[Retrocade Earnings Checker](https://github.com/Markkop/retrocade-earnings-checker)**: A NextJS app to process a GraphQL query related to a cryptocurrency on Binance Smart Chain
 
 ### Websites
 * 🦜 **[Corvos de Efrim Website](https://github.com/Markkop/corvos-de-efrim-website)**: A ReactJS website for the guild I'm part of in the Wakfu MMORPG
