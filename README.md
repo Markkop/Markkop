@@ -10,7 +10,7 @@ A fullstack developer that loves learning, sharing and gamified stuff.
 * 📁 **[habiticaScripts](https://github.com/Markkop/habiticaScripts)**: A script collection & generator to be used with a browser extension to customize the user experience in Habitica
 * 📥 **[Youtube - Download and Cut](https://github.com/Markkop/yt-dlandcut)**: An Electron app that download and cuts Youtube videos in a given time frame
 
-### Demo Projects
+### Web 2.0 Projects
 
 * 🎥 **[Upcoming Movies](https://github.com/Markkop/upcoming-movies)**: A Typescript project made in ReactJS and ExpressJS that lists movies from TheMovieDatabase
 * 👩‍⚕️ **[Health Plan Listing](https://github.com/Markkop/health-plan-listing)**: An app made in VueJS and ExpressJS with CRUD and auth/authorization that lists health plans
@@ -19,12 +19,17 @@ A fullstack developer that loves learning, sharing and gamified stuff.
 * 📅 **[FlaskReact](https://github.com/Markkop/FlaskReact)**: A To-Do List app made in ReactJS and Flask (Python)
 * 🚀 **[Fullstacking](https://github.com/Markkop/fullstacking)**: A meetup register and listing app made in React-Native, KoaJS and GraphQL
 
+### Web 3.0 Projects
+
+* 🕹️ **[Retrocade Rewards Tracker](https://github.com/Markkop/retrocade-earnings-checker)**: A NextJS app to process a GraphQL query related to a cryptocurrency on BSC
+* 🖼️ **[NFT Marketplace](https://github.com/Markkop/nft-marketplace)**: A Fullstack Dapp built with Javascript and Solidity using Hardhat and NextJS
+
+
 ### Others
 * 🔮 **[Numbers' Guide](https://github.com/Markkop/numbers-guide/blob/master/README.md)**: An Alexa Skill made in Node that provides numerology information
 * ⚖️ **[Customer Success Balancing](https://github.com/Markkop/cs-balancer)**: A Ruby script and its Javascript equivalent that solves a sorting algorithm problem
 * 🔒 **[caesarCipher script](https://github.com/Markkop/caesarCipher)**: The solution for the old Codenation entry challenge
 * 🖱️ **[Click Limiter](https://github.com/Markkop/click-limiter)**: A simple VueJS app demonstrating how throttle and debounce works  
-* 🕹️ **[Retrocade Earnings Checker](https://github.com/Markkop/retrocade-earnings-checker)**: A NextJS app to process a GraphQL query related to a cryptocurrency on Binance Smart Chain
 
 ### Websites
 * 🦜 **[Corvos de Efrim Website](https://github.com/Markkop/corvos-de-efrim-website)**: A ReactJS website for the guild I'm part of in the Wakfu MMORPG
