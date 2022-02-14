@@ -18,7 +18,8 @@ A fullstack developer that loves learning, sharing and gamified stuff.
 * 🏠 **[Residence Heatmap](https://github.com/Markkop/residence-heatmap)**: A React project with Express+JSONServer as backend that displays a heatmap from inputted cordinates
 * 🌀 **[Meta Quiz Imersão React](https://github.com/Markkop/meta-quiz-imersao-react)**: A NextJS and ReactJS project with a Quiz about the one-week course about making quizes
 * 📅 **[FlaskReact](https://github.com/Markkop/FlaskReact)**: A To-Do List app made in ReactJS and Flask (Python)
-* 🚀 **[Fullstacking](https://github.com/Markkop/fullstacking)**: A meetup register and listing app made in React-Native, KoaJS and GraphQL
+* 🚀 **[Fullstacking](https://github.com/Markkop/fullstacking)**: A meetup register and listing app made in React-Native, KoaJS and GraphQL  
+* 🤖 **[Drift Zenith Bot](https://github.com/Markkop/drift-bot)**: Another Discord Bot that facilitates party recruiting and provides information about Zenith VR MMORPG
 
 ### Web 3.0 Projects
 
