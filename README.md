@@ -20,6 +20,7 @@ A fullstack developer that loves learning, sharing and gamified stuff.
 * 📅 **[FlaskReact](https://github.com/Markkop/FlaskReact)**: A To-Do List app made in ReactJS and Flask (Python)
 * 🚀 **[Fullstacking](https://github.com/Markkop/fullstacking)**: A meetup register and listing app made in React-Native, KoaJS and GraphQL  
 * 🤖 **[Drift Zenith Bot](https://github.com/Markkop/drift-bot)**: Another Discord Bot that facilitates party recruiting and provides information about Zenith VR MMORPG
+* 📡 **[CodeCon-Gather API](https://github.com/Markkop/codecon-gather-api)**: A Gather.town Websocket API interaction server to customize the CodeCon Tech Event 
 
 ### Web 3.0 Projects
 
