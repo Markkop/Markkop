@@ -21,7 +21,8 @@ A fullstack developer that loves learning, sharing and gamified stuff.
 * 🚀 **[Fullstacking](https://github.com/Markkop/fullstacking)**: A meetup register and listing app made in React-Native, KoaJS and GraphQL  
 * 📁 **[habiticaScripts](https://github.com/Markkop/habiticaScripts)**: A script collection & generator to be used with a browser extension to customize the user experience in Habitica
 * 🤖 **[Drift Zenith Bot](https://github.com/Markkop/drift-bot)**: Another Discord Bot that facilitates party recruiting and provides information about Zenith VR MMORPG
-* 🥽 **[Essence Helper](https://github.com/Markkop/essence-helper-alexa-skill)**:  An Alexa Skill that provides information about ZenithVR MMORPG 
+* 🥽 **[Essence Helper (Alexa)](https://github.com/Markkop/essence-helper-alexa-skill)**:  An Alexa Skill that provides information about ZenithVR MMORPG 
+* 🥽 **[Essence Helper (Google)](https://github.com/Markkop/essence-helper-google-action)**: The Google Action version for Essence Helper
 
 ### Web 3.0 Projects
 
