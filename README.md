@@ -23,7 +23,7 @@ A fullstack developer that loves learning, sharing and gamified stuff.
 * 🤖 **[Drift Zenith Bot](https://github.com/Markkop/drift-bot)**: Another Discord Bot that facilitates party recruiting and provides information about Zenith VR MMORPG
 * 🎙️ **[Essence Helper](https://github.com/Markkop/essence-helper-jovo)**: A voice app made with Jovo and Typescript compatible with Alexa and Google Assistant
 * 🎙️ **[Essence Helper (Alexa)](https://github.com/Markkop/essence-helper-alexa-skill)**: The voice app above, but as an Alexa Skill only.
-* 🎙️ **[Essence Helper (Google)](https://github.com/Markkop/essence-helper-google-action)**: The voice app aboce, but as a Google Action only.
+* 🎙️ **[Essence Helper (Google)](https://github.com/Markkop/essence-helper-google-action)**: The voice app above, but as a Google Action only.
 
 ### Web 3.0 Projects
 
