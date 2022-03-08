@@ -6,7 +6,7 @@ A fullstack developer that loves learning, sharing and gamified stuff.
 ### Main Projects
 
 * 🌙 **[Corvo Astral](https://github.com/Markkop/corvo-astral)**: A Discord Bot that collects and provides information about Wakfu MMORPG
-* 🔮 **[Numbers' Guide](https://github.com/Markkop/numbers-guide/blob/master/README.md)**: An Alexa Skill made with Typescript that provides numerology information
+* 🎙️ **[Essence Helper](https://github.com/Markkop/essence-helper-jovo)**: A voice app made with Jovo and Typescript compatible with Alexa and Google Assistant
 * 📡 **[CodeCon-Gather API](https://github.com/codecon-dev/codecon-gather-api)**: A Gather.town Websocket API interaction server to customize the CodeCon Tech Event 
 * 🌳 **[Nest](https://github.com/Markkop/nest)**: A microservices project to manage my personal APIs collection
 * 📥 **[Youtube - Download and Cut](https://github.com/Markkop/yt-dlandcut)**: An Electron app that download and cuts Youtube videos in a given time frame
@@ -21,9 +21,9 @@ A fullstack developer that loves learning, sharing and gamified stuff.
 * 🚀 **[Fullstacking](https://github.com/Markkop/fullstacking)**: A meetup register and listing app made in React-Native, KoaJS and GraphQL  
 * 📁 **[habiticaScripts](https://github.com/Markkop/habiticaScripts)**: A script collection & generator to be used with a browser extension to customize the user experience in Habitica
 * 🤖 **[Drift Zenith Bot](https://github.com/Markkop/drift-bot)**: Another Discord Bot that facilitates party recruiting and provides information about Zenith VR MMORPG
-* 🎙️ **[Essence Helper](https://github.com/Markkop/essence-helper-jovo)**: A voice app made with Jovo and Typescript compatible with Alexa and Google Assistant
-* 🎙️ **[Essence Helper (Alexa)](https://github.com/Markkop/essence-helper-alexa-skill)**: The voice app above, but as an Alexa Skill only.
-* 🎙️ **[Essence Helper (Google)](https://github.com/Markkop/essence-helper-google-action)**: The voice app above, but as a Google Action only.
+* 🔮 **[Numbers' Guide](https://github.com/Markkop/numbers-guide/blob/master/README.md)**: An Alexa Skill made with Typescript that provides numerology information
+* 🎙️ **[Essence Helper (Alexa)](https://github.com/Markkop/essence-helper-alexa-skill)**: The Essence Helper voice app, but as an Alexa Skill only.
+* 🎙️ **[Essence Helper (Google)](https://github.com/Markkop/essence-helper-google-action)**: The Essence Helper voice app, but as a Google Action only.
 
 ### Web 3.0 Projects
 
