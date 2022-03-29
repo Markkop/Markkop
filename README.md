@@ -29,7 +29,7 @@ A fullstack developer that loves learning, sharing and gamified stuff.
 
 * 🕹️ **[Retrocade Rewards Tracker](https://github.com/Markkop/retrocade-earnings-checker)**: A NextJS app to process a GraphQL query related to a cryptocurrency on BSC
 * 🖼️ **[NFT Marketplace](https://github.com/Markkop/nft-marketplace)**: A Fullstack Dapp built with Javascript and Solidity using Hardhat and NextJS
-
+* ⛰️ **[Decentraland Scene Test](https://github.com/Markkop/decentraland-scene-test)**: A Decentraland Proof of Concept Scene built with Typescript
 
 ### Others
 * ⚖️ **[Customer Success Balancing](https://github.com/Markkop/cs-balancer)**: A Ruby script and its Javascript equivalent that solves a sorting algorithm problem
