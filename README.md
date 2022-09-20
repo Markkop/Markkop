@@ -7,7 +7,6 @@ A fullstack developer that loves learning, sharing and gamified stuff.
 
 * 🌙 **[Corvo Astral](https://github.com/Markkop/corvo-astral)**: A Discord Bot that collects and provides information about Wakfu MMORPG
 * 🎙️ **[Essence Helper](https://github.com/Markkop/essence-helper-jovo)**: A voice app made with Jovo and Typescript compatible with Alexa and Google Assistant
-* 📡 **[CodeCon-Gather API](https://github.com/codecon-dev/codecon-gather-api)**: A Gather.town Websocket API interaction server to customize the CodeCon Tech Event 
 * 🌳 **[Nest](https://github.com/Markkop/nest)**: A microservices project to manage my personal APIs collection
 * 📥 **[Youtube - Download and Cut](https://github.com/Markkop/yt-dlandcut)**: An Electron app that download and cuts Youtube videos in a given time frame
 
@@ -31,6 +30,13 @@ A fullstack developer that loves learning, sharing and gamified stuff.
 * 🖼️ **[NFT Marketplace](https://github.com/Markkop/nft-marketplace)**: A Fullstack Dapp built with Javascript and Solidity using Hardhat and NextJS
 * ⛰️ **[Decentraland Scene Test](https://github.com/Markkop/decentraland-scene-test)**: A Decentraland Proof of Concept Scene built with Typescript
 * 🎮 **[NFT FPS Shooter Blockchain Game](https://github.com/Markkop/unity-web3-spaceFPS)**: A demo game for testing Moralis Unity SDK Web3 integration  
+
+### CodeCon
+
+* 🌎 **[Codecon's Website](https://github.com/codecon-dev/site/)**: The website made for the Codecon Tech Event. Made with NextJS, Typescript and SASS
+* 📡 **[Codecon-Gather API](https://github.com/codecon-dev/codecon-gather-api)**: A Websocket API interaction server to customize the Gather experience
+* ⚙️ **[CodeCodes's API](https://github.com/codecon-dev/codecodes-api)**: An Express + Typescript API to handle code claiming
+* 🧠 **[CodeCodes's Discord Bot](https://github.com/codecon-dev/codecon-codes)**: A JS Discord Bot to handle code creation and claiming
 
 ### Others
 * ⚖️ **[Customer Success Balancing](https://github.com/Markkop/cs-balancer)**: A Ruby script and its Javascript equivalent that solves a sorting algorithm problem
