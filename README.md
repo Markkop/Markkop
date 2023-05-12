@@ -10,6 +10,12 @@ A fullstack developer that loves learning, sharing and gamified stuff.
 * 🌳 **[Nest](https://github.com/Markkop/nest)**: A microservices project to manage my personal APIs collection
 * 📥 **[Youtube - Download and Cut](https://github.com/Markkop/yt-dlandcut)**: An Electron app that download and cuts Youtube videos in a given time frame
 
+### Web Projects mostly built with AI tools
+
+* 🎧 **[Discover Your Noise](https://github.com/Markkop/discover-your-noise)**: A NodeJS script to get artists from a Spotify playlist and get their genres from EveryNoise.com
+* 🎶 **[Multiple Spotify Playlist Deleter](https://github.com/Markkop/Multiple-Spotify-Playlist-deleter)**: A NextJS app to delete multiple spotify playlists at once
+* 🐺 **[Werewolf / Mafia Moderator Helper](https://github.com/Markkop/werewolf-moderator-helper)**: A NextJS app to help a werewolf/mafia party game moderator to set up and manage a game.
+
 ### Web 2.0 Projects
 
 * 🎥 **[Upcoming Movies](https://github.com/Markkop/upcoming-movies)**: A Typescript project made in ReactJS and ExpressJS that lists movies from TheMovieDatabase
@@ -44,4 +50,3 @@ A fullstack developer that loves learning, sharing and gamified stuff.
 * 🖱️ **[Click Limiter](https://github.com/Markkop/click-limiter)**: A simple VueJS app demonstrating how throttle and debounce works  
 * 🦜 **[Corvos de Efrim Website](https://github.com/Markkop/corvos-de-efrim-website)**: A ReactJS website for the guild I'm part of in the Wakfu MMORPG
 * 🐟 **[TarrafaHC Website](https://github.com/tarrafahc/tarrafahc.github.io)**: A NextJS and ReactJS website for the hackerclub I'm part of
-* 🎧 **[Discover Your Noise](https://github.com/Markkop/discover-your-noise)**: A NodeJS script to get artists from a Spotify playlist and get their genres from EveryNoise.com
