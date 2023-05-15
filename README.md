@@ -13,7 +13,7 @@ A fullstack developer that loves learning, sharing and gamified stuff.
 ### Web Projects mostly built with AI tools
 
 * 🎧 **[Discover Your Noise](https://github.com/Markkop/discover-your-noise)**: A NodeJS script to get artists from a Spotify playlist and get their genres from EveryNoise.com
-* 🎶 **[Multiple Spotify Playlist Deleter](https://github.com/Markkop/Multiple-Spotify-Playlist-deleter)**: A NextJS app to delete multiple spotify playlists at once
+* 🎶 **[Multiple Spotify Playlist Deleter](https://github.com/Markkop/Multiple-Playlist-deleter)**: A NextJS app to delete multiple spotify playlists at once
 * 🐺 **[Werewolf / Mafia Moderator Helper](https://github.com/Markkop/werewolf-moderator-helper)**: A NextJS app to help a werewolf/mafia party game moderator to set up and manage a game.
 
 ### Web 2.0 Projects
