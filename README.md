@@ -10,7 +10,7 @@ A fullstack developer that loves learning, sharing and gamified stuff.
 * 🌳 **[Nest](https://github.com/Markkop/nest)**: A microservices project to manage my personal APIs collection
 * 📥 **[Youtube - Download and Cut](https://github.com/Markkop/yt-dlandcut)**: An Electron app that download and cuts Youtube videos in a given time frame
 
-### Web Projects mostly built with AI tools
+### Projects built with AI or related to AI
 
 * 🗃️ **[RepoGPT](https://github.com/Markkop/RepoGPT)**: A webpage to merge github files to send them to GPT API or to copy and paste them into ChatGPT.
 * 🎧 **[Discover Your Noise](https://github.com/Markkop/discover-your-noise)**: A NodeJS script to get artists from a Spotify playlist and get their genres from EveryNoise.com
