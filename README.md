@@ -51,3 +51,4 @@ A fullstack developer that loves learning, sharing and gamified stuff.
 * 🖱️ **[Click Limiter](https://github.com/Markkop/click-limiter)**: A simple VueJS app demonstrating how throttle and debounce works  
 * 🦜 **[Corvos de Efrim Website](https://github.com/Markkop/corvos-de-efrim-website)**: A ReactJS website for the guild I'm part of in the Wakfu MMORPG
 * 🐟 **[TarrafaHC Website](https://github.com/tarrafahc/tarrafahc.github.io)**: A NextJS and ReactJS website for the hackerclub I'm part of
+* 🎓 **[Gather Town Websocket Examples](https://github.com/Markkop/gather-town-websocket-examples)**: A repository with example interactions that can be made with Gather.town Websocket API
