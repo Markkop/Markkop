@@ -5,7 +5,14 @@
 [![linktree](https://img.shields.io/badge/-linktree-2F8F4C)](https://linktree.markkop.dev/)
 [![talks](https://img.shields.io/badge/-talks-yellow)](https://talks.markkop.dev/)
 
-A fullstack developer that loves learning, sharing and gamified stuff.
+A fullstack developer that loves learning, sharing and gamified stuff. 
+
+### Built-With-AI Projects
+
+- 💰 **[Receipt Processor](https://stipend-claim-helper-markkop.replit.app/)**: An app that parses PDF receipts, extracts data with AI, and converts currencies (made with Replit Agent)
+- 🧔 **[Beard Shave Tracker](https://beard-shave-tracker.netlify.app/)**: A client-side app to log shave dates and predict your next ideal shave (made with Bolt.new)
+- 💍 **Wedding Guest Planner List**: A tool to manage a guest list with details, reordering and RSVP RSVP statuses. (Link soon)
+- 🎨 **[Prompt Mural](https://promptmural.xyz/)**: A client-side app for registering and sharing AI prompts (made with Bolt.new)
 
 ### Main Projects
 
